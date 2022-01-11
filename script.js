@@ -7,3 +7,8 @@ const nflTeams = [
 const matchDays = ['Monday Night Football', 'Thursday Night Football', 'Sunday Night Football', 'Sunday']
 
 const outcomes = ['beat', 'looses to']
+
+const selectRandom = array => {
+    const randomPosition = Math.floor(Math.random() * array.length);
+    return array[randomPosition];
+}
