@@ -4,7 +4,6 @@ This project selects two random NFL teams, chooses a day of the week they play, 
 ## Table of contents
 - General Info
 - Technologies Used
-- Setup
 - Usage
 - Project Status
 - Contact
@@ -17,16 +16,14 @@ This project selects two random NFL teams, chooses a day of the week they play, 
 - The project will also select a day of the week for the game that is to be played. It will select between: Monday night, Thursday night, Sunday afternoon, or Sunday night.
 
 ## Technologies Used
-This project was built using *JavaScript* and tested in **Node.js v16.13.1**.
-
-## Setup
-This section will be updated as the project progresses.
+This project was built using **JavaScript** and tested in **Node.js v16.13.1**.
 
 ## Usage
-This section will be updated as the project progresses.
+Run the script with **node.js** with the following command:
+> node script.js
 
 ## Project Status
-This project is currently *in progress*.
+This project is currently *completed*.
 
 ## Contact
 Created by **@klokko** - feel free to contact me!
