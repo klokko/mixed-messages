@@ -6,6 +6,7 @@ This project selects two random NFL teams, chooses a day of the week they play, 
 - Technologies Used
 - Usage
 - Project Status
+- Contributing
 - Contact
 
 ## General Information
@@ -20,10 +21,13 @@ This project was built using **JavaScript** and tested in **Node.js v16.13.1**.
 
 ## Usage
 Run the script with **node.js** with the following command:
-> node script.js
+> node nflGamePredictor.js
 
 ## Project Status
 This project is currently *completed*.
+
+## Contributing
+Please make any pull requests using GITHUB
 
 ## Contact
 Created by **@klokko** - feel free to contact me!
